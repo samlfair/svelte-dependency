@@ -13,6 +13,8 @@
 
 <h1>{mounted ? 'Mounted' : 'Not mounted'} to the dom</h1>
 
+<a href="/prismic">Another example</a>
+
 <pre>
   {JSON.stringify(content, null, 2)}
 </pre>
